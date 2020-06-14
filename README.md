@@ -1,4 +1,4 @@
-## :computer:  - Repositório destinado ao time de desenvolvimento.
+## :computer:  - Repositório destinado ao Curso de programação de Python do básico ao avançado.
 
 #### :scroll:  - Development Team
 ```bash
